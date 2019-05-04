@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m,n],o,_(p,q,r,s,t,u,v,_(),w,_(x,y,z,A,B,_(C,D,E,F),G,null,H,I,J,I,K,L,M,null,N,O,P,Q,R,S,T,O),U,_(),V,_(),W,_(X,[_(Y,Z,ba,j,bb,bc,r,bd,be,bd,bf,bg,w,_(bh,_(bi,bj,bk,bl),x,bm,B,_(C,D,E,bn)),U,_(),bo,_(),bp,g)])),bq,_(),br,_(bs,_(bt,bu)));}; 
+var b="url",c="产品页面.html",d="generationDate",e=new Date(1556963384860.07),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="Menu",o="page",p="packageId",q="086330e7156f4538bcb96a637db6d54c",r="type",s="Axure:Page",t="name",u="产品页面",v="notes",w="style",x="baseStyle",y="627587b6038d43cca051c114ac41ad32",z="pageAlignment",A="center",B="fill",C="fillType",D="solid",E="color",F=0xFFF6F7F9,G="image",H="imageHorizontalAlignment",I="near",J="imageVerticalAlignment",K="imageRepeat",L="auto",M="favicon",N="sketchFactor",O="0",P="colorStyle",Q="appliedColor",R="fontName",S="Applied Font",T="borderWidth",U="adaptiveStyles",V="interactionMap",W="diagram",X="objects",Y="id",Z="79fbe0adbd8b4f2486feccc5a43a966a",ba="label",bb="friendlyType",bc="矩形",bd="vectorShape",be="styleType",bf="visible",bg=true,bh="size",bi="width",bj=772,bk="height",bl=974,bm="4b7bfc596114427989e10bb0b557d0ce",bn=0xFF00FF99,bo="imageOverrides",bp="generateCompound",bq="masters",br="objectPaths",bs="79fbe0adbd8b4f2486feccc5a43a966a",bt="scriptId",bu="u1904";
+return _creator();
+})());
